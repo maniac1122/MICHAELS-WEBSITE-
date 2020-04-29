@@ -3,7 +3,7 @@
 body {
     padding: 0px;
     margin: 0px;
-    background: linear-gradient(0deg,rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("https://i.imgur.com/dEx9aMb.jpg") center center;
+    background: linear-gradient(0deg,rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("https://i.imgur.com/XOVwXM4.jpg") center center;
     background-size: cover;
     width: 100vw;
     height: 100vh;
@@ -14,7 +14,7 @@ body {
     width: 100vw;
     height: 100vh;
     position: fixed;
-    background:rgb(49, 51, 53);
+    background:rgb(0, 0, 255);
     z-index: 999;
     display: flex;
     justify-content: center;
