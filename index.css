@@ -14,7 +14,7 @@ body {
     width: 100vw;
     height: 100vh;
     position: fixed;
-    background:rgb(255, 50, 50);
+    background:rgb(49, 51, 53);
     z-index: 999;
     display: flex;
     justify-content: center;
