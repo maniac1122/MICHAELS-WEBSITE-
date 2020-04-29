@@ -137,7 +137,7 @@ body {
     border-radius:100px 100px 0px 0px;
 }
 #about:hover {
-    background:rgba(255,50,50,0.9);
+    background:rgba(49,51,53,0.8);
     cursor:pointer;
 }
 #work:hover {
