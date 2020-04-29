@@ -47,10 +47,10 @@ body {
     display:inline-block;
 }
 .box1 {
-    background:rgb(255, 50, 50);
+    background:rgb(49, 51, 53);
 }
 .box2 {
-    background:rgb(255, 50, 50);
+    background:rgb(49, 51, 53);
     margin-left:-5px;
 }
 #menu {
@@ -193,7 +193,7 @@ body {
     height:90vh;
     padding:5vh 5vw;
     background:rgb(255, 50, 50);
-    color:#222;
+    color:#fff;
     z-index:9;
     position:fixed;
     max-height:100vh;
