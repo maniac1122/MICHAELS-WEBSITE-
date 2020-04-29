@@ -90,7 +90,7 @@ body {
     font-size:25px;
     transform:rotate(-90deg);
     background:transparent;
-    color:#222;
+    color:#fff;
     position:fixed;
     left:0;
     bottom:40vh;
@@ -193,7 +193,7 @@ body {
     height:90vh;
     padding:5vh 5vw;
     background:rgb(255, 50, 50);
-    color:#fff;
+    color:#222;
     z-index:9;
     position:fixed;
     max-height:100vh;
