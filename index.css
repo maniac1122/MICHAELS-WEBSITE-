@@ -160,13 +160,16 @@ body {
 #middle table {
     width: 20%;
     margin: 6vh auto;
-  
+
 }
 #middle table tr td {
     text-align:center;
 
 }
-
+@media screen and (max-width: 768px) {
+  .col-sm-4 {
+    text-align: center;
+    margin: 25px 0;
 
 
 
@@ -182,9 +185,9 @@ body {
     transition: 0.4s ease-in-out;
     margin: 0px 8px;
     text-align: center;
-    
+
 }
-.social:hover { 
+.social:hover {
     cursor: pointer;
     color:rgb(255, 50, 50);
 }
@@ -328,13 +331,13 @@ placeholder {
     height:5px;
 }
 ::-webkit-scrollbar-track {
-    background: #fff; 
+    background: #fff;
 }
 ::-webkit-scrollbar-thumb {
-    background: rgb(255, 50, 50); 
+    background: rgb(255, 50, 50);
 }
 ::-webkit-scrollbar-thumb:hover {
-    background: rgba(255, 50, 50,0.8); 
+    background: rgba(255, 50, 50,0.8);
 }
 ::selection {
 	color: #fff;
@@ -391,4 +394,3 @@ placeholder {
         width: 100%;
     }
 }
-
